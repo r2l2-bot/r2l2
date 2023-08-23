@@ -14,7 +14,7 @@
   },
   "footer": {
     "aboutUs": "about us",
-    "description": "Our company specialises in the development of advanced technologies for a wide range of industries. We use cutting-edge techniques and algorithms to create intelligent systems that can help businesses automate tasks, improve efficiency, and drive innovation.",
+    "description": "This is the site referring to the R2L2 project, a line follower robot made in the simplest possible way, using an arduino uno. This is a university project, whose purpose is to learn in practice. This site will serve as a kind of documentation, so that anyone can replicate the project, as all the steps and decisions taken will be documented here.",
     "powerBy": "Powered by"
   },
   "notFound": {

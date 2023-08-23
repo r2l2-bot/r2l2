@@ -1,0 +1,24 @@
+{
+  "article": {
+    "relatedArticles": "Artigos relacionados",
+    "featured": "apresentado"
+  },
+  "landingPage": {
+    "latestArticles": "Últimos artigos"
+  },
+  "common": {
+    "regionalSettings": "Configurações de Região",
+    "homepage": "Homepage",
+    "language": "Idioma",
+    "languageDrawer": "Troca de idioma"
+  },
+  "footer": {
+    "aboutUs": "sobre nós",
+    "description": "Este é o site referente ao projeto R2L2, um robô seguidor de linha feito da forma mais simples possível, utilizando um arduino uno. Este é um projeto universitário, cujo propósito é aprender na prática. Este site servirá como uma espécie de documentação, para que seja possível que qualquer pessoa consiga replicar o projeto, já que todos os passos e decisões tomadas estarão documentadas aqui.",
+    "powerBy": "Powered by"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "Essa página parece nãoe existir. <0>Clique aqui</0> para voltar à tela inicial."
+  }
+}
